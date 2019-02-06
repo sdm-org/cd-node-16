@@ -1,6 +1,6 @@
 {
-           "name": "cd-node-16",
-         "version": "0.1.0",
+  "name": "cd-node-16",
+  "version": "0.1.0",
   "description": "my new project",
   "repository": {
     "type": "git",

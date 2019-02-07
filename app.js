@@ -27,7 +27,7 @@ const upload = multer({ dest: path.join(__dirname, 'uploads') });
  */
 dotenv.load({ path: '.env.example' });
 
-/**
+/** 
  * Controllers (route handlers).
  */
 const homeController = require('./controllers/home');
